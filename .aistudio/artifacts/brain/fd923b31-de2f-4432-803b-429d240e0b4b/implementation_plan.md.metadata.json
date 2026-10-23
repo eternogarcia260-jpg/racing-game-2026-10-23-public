@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la actualización visual de Circuito 3 (Marina Bay) al estándar Unreal Engine 5:\n- Reconstrucción física de la atmósfera y cúpula de cielo con dispersión Rayleigh/Mie profunda y nubes volumétricas cinemáticas multicapa con forward-scattering e iluminación dorada.\n- Acabado PBR de asfalto húmedo con lámina de agua de alto brillo especular, clearcoat físico, micro-rugosidad de rodadura y reflejos rasantes Fresnel.\n- Pipeline de iluminación y post-procesado con gradación de alto contraste ACES Filmic, bloom selectivo y balance tonal cinematográfico.",
+  "updatedAt":  "2026-10-23T15:10:42.696302751Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
